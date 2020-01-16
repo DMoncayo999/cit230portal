@@ -17,7 +17,7 @@ nav {
 
 img {
     position: relative;
-    top: -80px;
+    top: -30px;
     float : right;
     border : 20px;
     border-radius: 5px;
@@ -35,3 +35,6 @@ footer {
     font-size: 14px;
     padding: 15px 5px 15px 5px;
 }
+ footer span {
+     color: rgb(42, 236, 236);
+ }
