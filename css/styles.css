@@ -10,7 +10,7 @@ header {
 }
 h2 {
     font-family: 'McLaren', cursive; 
-    font-size: 20px; 
+    font-size: 18px; 
 }
 
 body {
@@ -30,7 +30,7 @@ img {
     box-shadow: 0 0 20px 0 rgb(148, 143, 77);
 }
 li {
-    font-size: 16px;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
 }
 footer {
