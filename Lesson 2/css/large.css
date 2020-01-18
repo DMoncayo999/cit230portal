@@ -8,5 +8,8 @@ html{
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 0.1em;
 }
+#lastgrip {
+    grid-column: span 1;
+}
 
 }

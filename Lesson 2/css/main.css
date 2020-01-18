@@ -40,20 +40,21 @@ section {
     border: 0.1em solid #bbb;
     background-color: lemonchiffon;
     font-family: Helvetica;
-    font-size: 1.2em;
+    font-size: 1em;
     border-radius: 1rem;
     
 }
 section p {
     margin : 1em;
     text-align: justify;
+    font-size: 1em;
 }
 .picture {
     border-radius: 1em;
 }
 img {
     margin: 0em 1em 0em 1em;
-    width: 95%;
+    width: 90%;
 }
 footer {
     text-align : center;
