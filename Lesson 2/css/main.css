@@ -48,7 +48,7 @@ section p {
     margin : 1em;
     text-align: justify;
 }
-#picture {
+.picture {
     border-radius: 1em;
 }
 img {
