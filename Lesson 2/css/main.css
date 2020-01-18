@@ -52,12 +52,12 @@ section p {
     margin : 1rem;
     text-align: justify;
 }
-.container {
+/*.container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 0.1em;
-    
-}
+ }*/
+ 
 #picture {
     border-radius: 10px;
 }
